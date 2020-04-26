@@ -1,0 +1,30 @@
+[33mcommit 03dd8494db0732e226feb5b2b915969e541932f7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: bd91222 ada4b6c
+Author: Pratik Tiwari <55805005+PT-1@users.noreply.github.com>
+Date:   Sun Apr 26 17:27:47 2020 +0530
+
+    merge fixed
+
+[33mcommit bd9122257883dd952b164b5c9198764e36288336[m
+Author: Pratik Tiwari <55805005+PT-1@users.noreply.github.com>
+Date:   Sun Apr 26 17:20:56 2020 +0530
+
+    Good night
+
+[33mcommit ada4b6c7a9a7035fdd9816e02567ad769c95c76e[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Pratik Tiwari <55805005+PT-1@users.noreply.github.com>
+Date:   Sun Apr 26 17:17:22 2020 +0530
+
+    Update hello.html
+
+[33mcommit c4ceee00b4579bd63b1876f2435faf484e54daa2[m
+Author: Pratik Tiwari <55805005+PT-1@users.noreply.github.com>
+Date:   Sun Apr 26 17:15:10 2020 +0530
+
+    Update hello.html
+
+[33mcommit 784dd1654958e868c08612c728db2a2c38b20277[m
+Author: Pratik Tiwari <55805005+PT-1@users.noreply.github.com>
+Date:   Sun Apr 26 17:06:29 2020 +0530
+
+    Hello file
